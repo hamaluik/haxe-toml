@@ -1,0 +1,5 @@
+-lib hxparse
+
+-cp src
+-main Main.hx
+-x bin/test

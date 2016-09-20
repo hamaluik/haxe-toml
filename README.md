@@ -1,2 +1,2 @@
 # haxe-toml
-A TOML parser for Haxe
+A [TOML](https://github.com/toml-lang/toml) parser for Haxe
